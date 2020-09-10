@@ -16,9 +16,9 @@
 Hi, I'm Rahul Singh, a passionate self-taught Backend Developer & Machine Learning Enthusiast from India.
 
 - 🔭 I’m currently working on my multiple project [Fasttag][E-Commerce Security][Pattern Analysis]
-- 🌱 I’m currently learning mostly 
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 🌱 I’m currently teaching computer how to recommend me profitable stocks
+- 👯 I’m actively posting on [Instagram](https://instagram.com/coding_panda)
+- 💬 Ask me about anything [here](https://github.com/rahuladream/rahuladream/issues)
 
    
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
@@ -30,13 +30,4 @@ Hi, I'm Rahul Singh, a passionate self-taught Backend Developer & Machine Learni
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rahuladream&layout=compact&theme=radical" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rahuladream&repo=github-readme-stats&theme=radical" />
-</a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rahuladream&repo=anuraghazra.github.io&theme=radical" />
 </a>
