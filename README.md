@@ -1,6 +1,6 @@
-### Hi there, I'm [Rahul!](https://rahuladream.github.io) 👋
+### Hi there, I'm [Rahul!](https://blog.voltry.in) 👋
 
-<a href="https://codesandbox.io/u/rahuladream">
+<a href="https://blog.voltry.in">
   <img align="left" alt="Rahul Singh | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 <a href="https://twitter.com/rahuladream">
