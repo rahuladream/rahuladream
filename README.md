@@ -8,7 +8,7 @@
 </a>
 <a href="https://discord.gg/s3we0i">
   <img align="left" alt="Rahul's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+</a><br/><br/>
 
 📌 _Here are a few things that describe me:_
 
