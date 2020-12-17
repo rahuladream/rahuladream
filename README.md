@@ -24,25 +24,27 @@ Hi, I'm Rahul Singh, a passionate self-taught Backend Developer & Machine Learni
 
 - 😄 &nbsp;_Pronouns:_ he/him
 - ⚡ &nbsp;_Fun fact:_ I ❤️ what I am doing!!😄
+- 🏘️ &nbsp;_House:_ Gryffindor 
 
 ### 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- 
+- [30 Best Free Places To Learn Coding in 2021](https://blog.voltry.in/30-best-free-places-to-learn-coding-in-2021)
+- [12 Recommended Advice For Learning Programming Faster](https://blog.voltry.in/12-recommended-advice-for-learning-programming-faster)
+- [4 Programming Language That Will Dominate 2021](https://blog.voltry.in/4-programming-language-that-will-dominate-2021-1)
+- [Will Machine Ever Rule The World?](https://blog.voltry.in/will-machine-ever-rule-the-world-1)
+- [How to completely secure any server](https://blog.voltry.in/how-to-completely-secure-any-server)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📦 Languages and Tools: 
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://engineering.fb.com/wp-content/uploads/2016/05/2000px-Python-logo-notext.svg_.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 <br />
