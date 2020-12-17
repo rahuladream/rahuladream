@@ -10,8 +10,6 @@
   <img align="left" alt="Rahul's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
-<br />
-<br />
 📌 _Here are a few things that describe me:_
 
 Hi, I'm Rahul Singh, a passionate self-taught Backend Developer & Machine Learning Enthusiast from India.
