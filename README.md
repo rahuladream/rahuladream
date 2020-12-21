@@ -26,6 +26,7 @@ Hi, I'm Rahul Singh, a passionate self-taught Backend Developer & Machine Learni
 
 ### 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning RoadMap 2021](https://blog.voltry.in/machine-learning-roadmap-2021)
 - [30 Best Free Places To Learn Coding in 2021](https://blog.voltry.in/30-best-free-places-to-learn-coding-in-2021) - **Featured**
 - [12 Recommended Advice For Learning Programming Faster](https://blog.voltry.in/12-recommended-advice-for-learning-programming-faster)
 - [4 Programming Language That Will Dominate 2021](https://blog.voltry.in/4-programming-language-that-will-dominate-2021-1) - **Featured**
