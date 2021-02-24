@@ -14,7 +14,7 @@
 
 Hi, I'm Rahul Singh, a passionate self-taught Backend Developer & Machine Learning Enthusiast from India.
 
-- 🔭 I’m currently working on [Voltry](www.voltry.in) Project
+- 🔭 I’m currently working on [Voltry](https://www.voltry.in) Project
 - 🌱 I’m currently teaching computer how to recommend me profitable stocks
 - 🔭 &nbsp;Personal goal ─ spend more time working on Security
 - 👯 I’m actively posting on [Instagram](https://instagram.com/coding_panda)
