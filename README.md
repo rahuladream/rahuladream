@@ -12,7 +12,7 @@
 
 📌 _Here are a few things that describe me:_
 
-Hi, I'm Rahul Singh, a passionate self-taught Backend Developer & Machine Learning Enthusiast from India.
+Hi, I'm Rahul Singh, a passionate self-taught Backend Developer & Machine Learning Enthusiast.
 
 ### 📦 Languages and Tools: 
 
